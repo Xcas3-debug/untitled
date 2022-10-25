@@ -9,7 +9,7 @@ public class example21_03 {
             System.out.println("Делится на 4 без остатка");
         }
         else {
-            System.out.println("Не делится на 4 без остатка");
+            System.out.println("Делится на 4 с остатком");
         }
         if (a > 10) {
             System.out.println("Число больше 10");
